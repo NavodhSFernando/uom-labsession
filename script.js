@@ -1,0 +1,1 @@
+alert("Blaze is an idiot");
